@@ -98,7 +98,7 @@ All three styles proven equivalent:
 - **Zhang (2011)**: "Adinkras for Mathematicians", [arXiv:1111.6055](https://arxiv.org/abs/1111.6055)
   - Primary source for layered definition and algebraic characterization
 - **Eager, Noja, Senghaas, Walcher (2024)**: "Adinkras and Pure Spinors", [arXiv:2404.07167](https://arxiv.org/abs/2404.07167)
-  - Direct 4-axiom definition (Definition 2.1)
+  - Direct 4-axiom definition (Definition 2.3)
 
 ### Mathlib
 - [Naming conventions](https://leanprover-community.github.io/contribute/naming.html)
