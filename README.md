@@ -1,4 +1,4 @@
-# Adinkra Formalization for Mathlib
+# Adinkra Formalization for ~~Mathlib~~ Sloplib
 
 A Lean4/mathlib formalization of **Adinkras**—decorated bipartite graphs from supersymmetry theory.
 
